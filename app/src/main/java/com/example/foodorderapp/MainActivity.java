@@ -2,14 +2,11 @@ package com.example.foodorderapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
-
 import android.os.Bundle;
 import android.widget.Toast;
-
 import com.example.foodorderapp.Adapters.MainAdapter;
 import com.example.foodorderapp.Models.MainModel;
 import com.example.foodorderapp.databinding.ActivityMainBinding;
-
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
